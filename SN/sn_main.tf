@@ -5,4 +5,11 @@ resource "azurerm_subnet" "sndodo1" {
     virtual_network_name=each.value.virtual_network_namesn
     address_prefixes=each.value.address_prefixessn
   
-}
+  
+  
+  
+  
+  //testing
+  
+  
+  }
